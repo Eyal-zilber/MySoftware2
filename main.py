@@ -1,2 +1,7 @@
+# ייבוא הפונקציות שכתבת
+from new_button import click
+from NewScreen import welcome
 
-test
+# קריאה לפונקציות
+click()  # זה אמור להדפיס "Click"
+welcome()  # זה אמור להדפיס "New Screen"
